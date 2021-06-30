@@ -14,7 +14,7 @@ ___
     *сделать чтобы при клике на каждый раздел открывалась соответствующая Activity
 
 ___
-![scren](app/src/main/res/drawable/MyPoliceScreenshot0.25.png)!    [scren 2](app/src/main/res/drawable/MyPoliceScreenshot2_0.25.png)
+![scren](app/src/main/res/drawable/MyPoliceScreenshot0.25.png)     ![scren 2](app/src/main/res/drawable/MyPoliceScreenshot2_0.25.png)
 ___
 *Задание на 90 баллов.
     *добавить скриншоты и небольшое тектовое описание программы которая получилась на github в README.md файл
