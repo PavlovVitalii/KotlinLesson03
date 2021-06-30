@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPolice</string>
+    <string name="calendar">Calendar</string>
+    <string name="email">Email</string>
+    <string name="video">Video</string>
+    <string name="images">Images</string>
+    <string name="map">Map</string>
+    <string name="archive">Archive</string>
+
+</resources>
